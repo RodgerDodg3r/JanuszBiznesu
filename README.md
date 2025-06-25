@@ -1,5 +1,5 @@
 
-<img src="[https://i.imgur.com/1rNhO65.png]" alt="Screenshot" width="300" height="200"/>
+<img src="[https://i.imgur.com/1rNhO65.png]" width="300" height="200"/>
 
 #Janusz Biznesu – Discord Bot
 
