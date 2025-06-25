@@ -1,5 +1,5 @@
 
-[img]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s[/img]
+![alt text](http://url/to/img.png)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s
 
 #Janusz Biznesu – Discord Bot
 
