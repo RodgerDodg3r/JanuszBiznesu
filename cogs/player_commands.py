@@ -88,7 +88,7 @@ class PlayerCommands(commands.Cog):
         currency = guild_data["currency"]
 
         messages = [
-            f"💼 Zasuwałeś jak dzik w kukurydzy – profit w kieszeni i zapach potu w gratisie.",
+            "💼 Zasuwałeś jak dzik w kukurydzy – profit w kieszeni i zapach potu w gratisie.",
             "🛠️ Zrobiłeś czarną robotę za kogoś innego. Jak zawsze, zapłacili jak za zboże – czyli gówno.",
             "🧻 Sprzątałeś po imprezie swingersów. Zarobione, ale twoja dusza potrzebuje prysznica.",
             "🪵 Rąbałeś drewno jak ojciec po trzech piwach – krzywo, ale skutecznie. Hajs się zgadza.",
