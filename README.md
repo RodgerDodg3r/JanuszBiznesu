@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s]", width="200"/>
-</p>
+![Logo](https://i.imgur.com/1rNhO65.png)
 
 #Janusz Biznesu – Discord Bot
 
