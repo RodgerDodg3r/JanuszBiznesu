@@ -1,4 +1,7 @@
-# 🧔💼 Janusz Biznesu – Discord Bot
+
+[img]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s[/img]
+
+#Janusz Biznesu – Discord Bot
 
 > **"Kasa sama się nie zrobi. Trzeba kombinować, inwestować i czasem przeklnąć."** – Janusz
 
