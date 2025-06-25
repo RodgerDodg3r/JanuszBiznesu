@@ -1,5 +1,6 @@
-
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s)
+<p align="center">
+  <img src="[https://example.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7m597PMpPakfft8PyvkUwZ5ovk_aPJgaw&s)" alt="Centered Image" width="200"/>
+</p>
 
 #Janusz Biznesu – Discord Bot
 
