@@ -1,4 +1,5 @@
-![Logo](https://i.imgur.com/1rNhO65.png)
+
+<img src="[assets/screenshot.png](https://i.imgur.com/1rNhO65.png)" alt="Screenshot" width="300" height="200"/>
 
 #Janusz Biznesu – Discord Bot
 
